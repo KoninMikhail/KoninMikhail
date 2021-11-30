@@ -1,4 +1,4 @@
-## Greetings ✌ I'm Mikhail! Building Frontend Apps & Learn New Tecnologies!
+## Greetings ✌ I'm Mikhail! Building Frontend Apps & Learning New Tecnologies!
 <div align="center">
   <a href="https://github.com/HelloHeitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helloheitz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
