@@ -8,6 +8,8 @@
 
   <img align="center" alt="Heitz-Js" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/javascript-plain.svg">
   <img align="center" alt="Heitz-PHP" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/c14c1c7b3db4432e8d911a9fc69b010a4ea08f15/devicons/php-plain.svg">
+  <img align="center" alt="Heitz-PHP" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/c14c1c7b3db4432e8d911a9fc69b010a4ea08f15/devicons/php-plain.svg">
+  <img align="center" alt="Heitz-PHP" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/c14c1c7b3db4432e8d911a9fc69b010a4ea08f15/devicons/php-plain.svg">
   <img align="center" alt="Heitz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/html5-original.svg">
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
   <img align="center" alt="Heitz-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/00d77784a82d9e24632a09803d5c08d32dc78502/devicons/bootstrap-plain.svg">
