@@ -12,7 +12,6 @@
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
   <img align="center" alt="Heitz-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/00d77784a82d9e24632a09803d5c08d32dc78502/devicons/bootstrap-plain.svg">
    <img align="center" alt="Heitz-Wepack" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/51c3c15ed49ea2ff826d34348997ad7aef4df9a7/devicons/webpack-plain.svg">
-   <img align="center" alt="Heitz-Woprdpress" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/d3de20bdf1551458048fcde00caf6725a7b52e70/devicons/wordpress.svg">
   <img align="right" alt="Heitz-pic" height="150" style="border-radius:50px;" src="https://github.com/HelloHeitz/HelloHeitz/blob/master/devicons/logo-hz.png?raw=true">
 </div>
   
