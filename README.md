@@ -6,9 +6,9 @@
 </div>
 <div style="display: inline_block"><br>
 
+  <img align="center" alt="Heitz-React" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/1e07da41ccbe6ef1414df4db08d0ac436acda8e9/devicons/React-icon.svg">
   <img align="center" alt="Heitz-Js" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/javascript-plain.svg">
   <img align="center" alt="Heitz-TS" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/506f9fdf08d5ca4565d5ee765e19057e27810a5f/devicons/ts.svg">
-  <img align="center" alt="Heitz-React" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/506f9fdf08d5ca4565d5ee765e19057e27810a5f/devicons/react.svg">
   <img align="center" alt="Heitz-PHP" height="31" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/c14c1c7b3db4432e8d911a9fc69b010a4ea08f15/devicons/php-plain.svg">
   <img align="center" alt="Heitz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/html5-original.svg">
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/HelloHeitz/HelloHeitz/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
