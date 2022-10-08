@@ -13,7 +13,7 @@
   <img align="center" alt="Heitz-PHP" height="31" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/c14c1c7b3db4432e8d911a9fc69b010a4ea08f15/devicons/php-plain.svg">
   <img align="center" alt="Heitz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/html5-original.svg">
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
-  <img align="center" alt="Heitz-Styled-Components" height="30" width="36" style="margin: 0 5px;" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/styled-components.png">
+  <img align="center" alt="Heitz-Styled-Components" height="30" width="37" style="margin: 0 5px;" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/styled-components.png">
    <img align="center" alt="Heitz-Wepack" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/51c3c15ed49ea2ff826d34348997ad7aef4df9a7/devicons/webpack-plain.svg">
   <img align="center" alt="Heitz-Vite" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/Vitejs-logo.svg">
   <img align="right" alt="Heitz-pic" height="150" style="border-radius:50px;" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/logo-hz.png?raw=true">
