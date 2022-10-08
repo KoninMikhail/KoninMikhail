@@ -14,6 +14,7 @@
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
   <img align="center" alt="Heitz-Styled-Components" height="30" width="30" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/styled-components.png">
    <img align="center" alt="Heitz-Wepack" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/51c3c15ed49ea2ff826d34348997ad7aef4df9a7/devicons/webpack-plain.svg">
+  <img align="center" alt="Heitz-Vite" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/Vitejs-logo.svg">
   <img align="right" alt="Heitz-pic" height="150" style="border-radius:50px;" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/logo-hz.png?raw=true">
 </div>
   
