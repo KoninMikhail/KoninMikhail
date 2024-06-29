@@ -8,11 +8,11 @@
 
   <img align="center" alt="Heitz-React" height="31" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/1e07da41ccbe6ef1414df4db08d0ac436acda8e9/devicons/React-icon.svg">
    <img align="center" alt="Heitz-Redux" height="31" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/redux.svg">
+   <img align="center" alt="Heitz-Effector" height="31" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/effector.png">
   <img align="center" alt="Heitz-Js" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/javascript-plain.svg">
   <img align="center" alt="Heitz-TS" height="31" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/506f9fdf08d5ca4565d5ee765e19057e27810a5f/devicons/ts.svg">
   <img align="center" alt="Heitz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/html5-original.svg">
   <img align="center" alt="Heitz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/577eff1038652609bf8905705a6ff559908ddf80/devicons/css3-original.svg"> 
-  <img align="center" alt="Heitz-Styled-Components" height="30" width="37" style="margin: 0 5px;" src="https://github.com/KoninMikhail/KoninMikhail/blob/master/devicons/styled-components.png">
    <img align="center" alt="Heitz-Wepack" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/51c3c15ed49ea2ff826d34348997ad7aef4df9a7/devicons/webpack-plain.svg">
   <img align="center" alt="Heitz-Vite" height="30" width="40" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/Vitejs-logo.svg">
   <img align="center" alt="Heitz-Docker" height="30" width="55" src="https://raw.githubusercontent.com/KoninMikhail/KoninMikhail/master/devicons/docker.svg">
